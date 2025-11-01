@@ -13,7 +13,6 @@
 
 ### 🌷 About Me  
 💻 I love crafting **minimal, aesthetic, and responsive** interfaces.  
-🧠 Currently exploring **AI integrations** for smarter SaaS experiences.  
 🌱 Constantly learning new tools to make web apps faster and prettier.  
 🎨 Fueled by clean code, pastel colors, and good coffee ☕  
 
@@ -40,14 +39,6 @@
   <a href="mailto:dev.rusydi@gmail.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/rusydi"><img src="https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
----
-
-### 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rusydi&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusydi&layout=compact&theme=rose_pine&hide_border=true" height="160" />
-</div>
 
 ---
 
