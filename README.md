@@ -58,7 +58,7 @@
 
 ---
 
-### 🚀 Featured Repositories
+<!-- ### 🚀 Featured Repositories
 
 <div align="center">
   <!-- Add your pinned repositories here by uncommenting and replacing 'repo-name' with your actual repository names -->
@@ -72,11 +72,11 @@
   <a href="https://github.com/rusydiahmadyusof/another-repo">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rusydiahmadyusof&repo=another-repo&theme=radical&hide_border=true&bg_color=0D1117&title_color=9370DB&text_color=FFB6C1" />
   </a>
-  -->
+  
 </div>
 
 ---
-
+-->
 ### 📬 Let's Connect
 
 <p align="center">
