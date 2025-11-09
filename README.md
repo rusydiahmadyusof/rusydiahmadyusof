@@ -1,55 +1,72 @@
 <!-- 🌸 Rusydi | Aesthetic Animated GitHub Profile README -->
 
 <h1 align="center">
-  Hey there! I'm Rusydi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px" height="30px" />
+  Hi, I'm Rusydi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px" height="30px" />
 </h1>
-<p align="center">✨ Front-End Web Developer from Malaysia 🇲🇾</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=A78BFA&center=true&vCenter=true&width=450&lines=React+Developer;TailwindCSS+Stylist;Junior+Front-End+Developer;Lifelong+Learner+%F0%9F%8C%B1" />
+  <b>Full-Stack Web Developer</b> • Building scalable web applications with React, Next.js & Node.js
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=A78BFA&center=true&vCenter=true&width=500&lines=React+%26+Next.js+Developer;Full-Stack+Developer;TypeScript+Enthusiast;Problem+Solver;Lifelong+Learner+%F0%9F%8C%B1" />
 </p>
 
 ---
 
 ### 🌷 About Me
 
-💻 I love crafting **minimal, aesthetic, and responsive** interfaces.  
-🌱 Constantly learning new tools to make web apps faster and prettier.  
-🎨 Fueled by clean code, pastel colors, and good coffee ☕
+💻 Front-End Developer focused on creating scalable, performant web applications.  
+🚀 Building modern full-stack solutions with React, Next.js, and Node.js.  
+🌱 Continuously expanding my skills in both frontend and backend development.  
+🎨 Passionate about clean architecture, responsive design, and developer experience.
 
 ---
 
-### 🛠️ Tech Stack (Junior Front-End Developer)
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,git,github,figma,vscode,npm,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,git,github,figma,vscode,npm,nodejs,express,mongodb,postgres,firebase,vercel,netlify" />
 </div>
 
 #### 🧩 Core Skills
 
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks / Libraries:** React, Tailwind CSS, Vite
+**Frontend Development:**
+
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Frameworks & Libraries:** React, Next.js, Tailwind CSS, Vite
+- **State Management:** React Hooks, Context API
+- **Styling:** Tailwind CSS, CSS Modules, Responsive Design
+- **Build Tools:** Vite, Webpack, npm, yarn
+
+**Backend & Database:**
+
+- **Runtime:** Node.js
+- **Frameworks:** Express.js
+- **Databases:** MongoDB, PostgreSQL
+- **Cloud Services:** Firebase, Vercel, Netlify
+
+**Tools & Technologies:**
+
 - **Version Control:** Git & GitHub
-- **UI/UX Tools:** Figma, Canva
-- **Package Managers:** npm
+- **UI/UX Design:** Figma, Canva
 - **Development Tools:** VS Code, Chrome DevTools
-- **Basic Backend Knowledge:** Node.js (for integration testing & APIs)
+- **Package Managers:** npm, yarn
+- **API Integration:** RESTful APIs, GraphQL
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rusydiahmadyusof&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9370DB&icon_color=A78BFA&text_color=FFB6C1&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusydiahmadyusof&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=9370DB&text_color=FFB6C1"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=rusydiahmadyusof&theme=radical&hide_border=true&background=0D1117&ring=9370DB&fire=A78BFA&currStreakLabel=FFB6C1" alt="GitHub Streak" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rusydiahmadyusof&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9370DB&icon_color=A78BFA&text_color=FFB6C1&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusydiahmadyusof&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=9370DB&text_color=FFB6C1"/>
+  <img height="165em" src="https://github-readme-streak-stats.demolab.com/?user=rusydiahmadyusof&theme=radical&hide_border=true&background=0D1117&ring=9370DB&fire=A78BFA&currStreakLabel=FFB6C1" alt="GitHub Streak" />
 </div>
 
 ---
 
+<!--
 ### 📈 Contribution Graph
 
 <div align="center">
@@ -77,6 +94,7 @@
 
 ---
 -->
+
 ### 📬 Let's Connect
 
 <p align="center">
