@@ -59,9 +59,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rusydiahmadyusof&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9370DB&icon_color=A78BFA&text_color=FFB6C1&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusydiahmadyusof&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=9370DB&text_color=FFB6C1"/>
-  <img height="165em" src="https://github-readme-streak-stats.demolab.com/?user=rusydiahmadyusof&theme=radical&hide_border=true&background=0D1117&ring=9370DB&fire=A78BFA&currStreakLabel=FFB6C1" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rusydiahmadyusof&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9370DB&icon_color=A78BFA&text_color=FFB6C1&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusydiahmadyusof&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=9370DB&text_color=FFB6C1"/>
 </div>
 
 ---
