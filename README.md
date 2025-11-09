@@ -93,7 +93,7 @@
 </div>
 
 ---
--->
+
 
 ### 📬 Let's Connect
 
@@ -103,13 +103,29 @@
 </p>
 
 ---
+-->
 
 ### 🌸 Quote to Code By
 
-> “Simplicity is the soul of efficiency.” – Austin Freeman
+<div align="center">
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=A78BFA&center=true&vCenter=true&width=600&lines=%22Simplicity+is+the+soul+of+efficiency.%22;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.%22" />
+
+— _Austin Freeman, John Johnson, Cory House_
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:9370db&height=100&section=footer" />
-</p>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=rusydiahmadyusof&label=Profile%20views&color=A78BFA&style=flat-square" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/rusydiahmadyusof?label=Followers&style=flat-square&color=A78BFA" alt="GitHub Followers" />
+  </p>
+  
+  <p>Made with ❤️ and ☕ by <b>Rusydi</b></p>
+  
+</div>
