@@ -27,8 +27,6 @@ I'm a passionate full-stack developer focused on creating scalable, performant w
 | **[Furniro](https://github.com/rusydiahmadyusof/Furniro)** | Furniture store UI case study | TypeScript, React | [Repo](https://github.com/rusydiahmadyusof/Furniro) · [Live Demo](https://your-furniro-demo.vercel.app) |
 | **[JomMasakResepi](https://github.com/rusydiahmadyusof/JomMasakResepi)** | Recipe / cooking app case study | TypeScript, React | [Repo](https://github.com/rusydiahmadyusof/JomMasakResepi) · [Live Demo](https://your-jommasak-demo.vercel.app) |
 
-Replace the `Live Demo` URLs above with your real Vercel/Netlify links once deployed.
-
 ---
 
 ## 🛠️ Tech Stack
