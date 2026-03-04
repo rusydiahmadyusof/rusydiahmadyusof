@@ -1,18 +1,33 @@
 <div align="center">
   <h1>Hi there, I'm Rusydi 👋</h1>
-  <h3>Front end web developer | Building scalable web applications with React, Next.js & TypeScript</h3>
+  <h3>Full stack developer | Building scalable web applications with React, Next.js & TypeScript</h3>
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate front-end developer focused on creating scalable, performant web applications. I specialize in building modern user interfaces with React, Next.js, and TypeScript. I'm passionate about clean architecture, responsive design, and creating exceptional developer experiences.
+I'm a passionate full-stack developer focused on creating scalable, performant web applications. I build modern user interfaces with React, Next.js, and TypeScript, and work across the stack with APIs, databases, and deployment. I'm passionate about clean architecture, responsive design, and creating exceptional developer experiences.
 
 - 🔭 Currently working on building modern web applications
 - 🌱 Always learning and exploring new technologies
 - 💡 Interested in UI/UX design and user experience
 - 🎯 Focused on writing clean, maintainable code
+- 💼 Open to full-stack opportunities
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech | Links |
+|---------|-------------|------|--------|
+| **[Portfolio](https://github.com/rusydiahmadyusof/Portfolio)** | Personal portfolio and project showcase | React, Next.js, TypeScript | [Repo](https://github.com/rusydiahmadyusof/Portfolio) · [Live Demo](https://your-portfolio-url.vercel.app) |
+| **[ProjectFlow](https://github.com/rusydiahmadyusof/ProjectFlow)** | Project management or workflow app | TypeScript, React | [Repo](https://github.com/rusydiahmadyusof/ProjectFlow) · [Live Demo](https://your-projectflow-demo.vercel.app) |
+| **[Exclusive](https://github.com/rusydiahmadyusof/Exclusive)** | E-commerce UI case study | TypeScript, React | [Repo](https://github.com/rusydiahmadyusof/Exclusive) · [Live Demo](https://your-exclusive-demo.vercel.app) |
+| **[Furniro](https://github.com/rusydiahmadyusof/Furniro)** | Furniture store UI case study | TypeScript, React | [Repo](https://github.com/rusydiahmadyusof/Furniro) · [Live Demo](https://your-furniro-demo.vercel.app) |
+| **[JomMasakResepi](https://github.com/rusydiahmadyusof/JomMasakResepi)** | Recipe / cooking app case study | TypeScript, React | [Repo](https://github.com/rusydiahmadyusof/JomMasakResepi) · [Live Demo](https://your-jommasak-demo.vercel.app) |
+
+Replace the `Live Demo` URLs above with your real Vercel/Netlify links once deployed.
 
 ---
 
@@ -61,6 +76,9 @@ I'm a passionate front-end developer focused on creating scalable, performant we
 <div align="center">
   <a href="mailto:dev.rusydi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/rusydiahmadyusof">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/rusydiahmadyusof">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
